@@ -43,7 +43,7 @@ return first_num-second_num;
 }
 public long mul()
 {
-return first_num*second_num;
+return first_num/second_num;
 
 }
 	public static void main( String[] args )
